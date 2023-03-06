@@ -1,1 +1,1 @@
-# I35ModBldAlt3_Shared_Use_Paths
+# I35ModBldAlt3_Shared_Use_Paths shows proposed shared use paths in the Texas Department of Transportation's (TxDOT's) Modified-Build Alternative 3 project for expansion of I-35 in Central Austin, Texas (the "I-35 Capital Express Central" project).  Shared use path data was extracted from TxDOT's "KMZ-WRK-CapEx-Central-M-RD-HD003_MOD-01-20220803-wLegend.kmz" file.
